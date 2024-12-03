@@ -27,5 +27,12 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "shoplist": [
+        {
+            "id": 1,
+            "name": "무",
+            "bought": false
+        }
+    ]
 }
