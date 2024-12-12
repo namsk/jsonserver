@@ -32,7 +32,7 @@
         { "id": 1, "name": "무", "isBought": false },
         { "id": 2, "name": "배추", "isBought": false },
         { "id": 3, "name": "쪽파", "isBought": true },
-        { "id": 4, "name": "고춧가루", "isBought": false },
+        { "id": 4, "name": "고춧가루", "isBought": false }
     ],
     "todos": [
         { "id": 1, "title": "Buy groceries", "completed": false },
